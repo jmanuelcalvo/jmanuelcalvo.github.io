@@ -68,19 +68,18 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "jmanuelcalvo@gmail.com"
+  facebook: jmanuelcalvo
+  github: jmanuelcalvo
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jmanuelcalvo
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: jmanuelcalvo
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +57 3105669747
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -90,10 +89,14 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  github: true
+  linkedin: true
+  instagram: true
+  telephone: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "jmanuelcalvo.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -156,7 +159,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Bogota"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
