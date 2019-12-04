@@ -20,7 +20,10 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Sobre mi: "aboutme"
+  Red Hat: "redhat"
+  Fotografía: "foto"
+  Viajes: "viajes"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
