@@ -1,3 +1,13 @@
+---
+layout: post
+title: Openstack vs RHV
+
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [Openstack]
+comments: true
+
+
 Red Hat Virtualization – Virtual Datacenter
 Re Hat OpenStack – IaaS
 
