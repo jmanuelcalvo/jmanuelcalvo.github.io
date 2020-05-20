@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Openstack vs RHV
-
+subtitle: Diferencias entre Openstack vs RHV
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [Openstack]
+tags: [OpenStack]
 comments: true
+
 
 
 Red Hat Virtualization – Virtual Datacenter
