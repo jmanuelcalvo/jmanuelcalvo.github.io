@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [OpenStack]
 comments: true
 
-
+---
 
 Red Hat Virtualization – Virtual Datacenter
 Re Hat OpenStack – IaaS
