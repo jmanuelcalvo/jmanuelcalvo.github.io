@@ -1,14 +1,14 @@
 ---
 layout: redhat
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Ejercicion de publicacion para curso GIT
+subtitle: Para el curso Transformación Digital: Tecnologías y sus aplicaciones prácticas 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+Esta es un ejemplo de publicacion de un sitio web utilizando un tema llamado [beautiful-jekyll] (https://beautifuljekyll.com/) 
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
 
