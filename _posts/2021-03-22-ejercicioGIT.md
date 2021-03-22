@@ -1,7 +1,7 @@
 ---
 layout: redhat
-title: Ejercicion de publicacion para curso GIT
-subtitle: Para el curso Transformación Digital: Tecnologías y sus aplicaciones prácticas 
+title: Ejercicion de publicacion para curso
+subtitle: Para el curso Transformacion Digital: Tecnologias y sus aplicaciones practicas 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
