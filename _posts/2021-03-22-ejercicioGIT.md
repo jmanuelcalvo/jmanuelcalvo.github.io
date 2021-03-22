@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ejercicio MIT
-subtitle: Diferencias entre Openstack vs RHV
+title: Ejercicio Introduccion a GitHub
+subtitle: para el curso de Transformacion Digital MIT
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [OpenStack]
