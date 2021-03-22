@@ -1,5 +1,5 @@
 ---
-layout: redhat
+layout: post
 title: Ejercicion de publicacion para curso
 subtitle: Para el curso Transformacion Digital: Tecnologias y sus aplicaciones practicas 
 gh-repo: daattali/beautiful-jekyll
@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+
 Esta es un ejemplo de publicacion de un sitio web utilizando un tema llamado [beautiful-jekyll] (https://beautifuljekyll.com/) 
 
 
